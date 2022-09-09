@@ -3,13 +3,13 @@
 /** 
  * main - print the string in the main function
  *
+ e
  * Description: using the main function
  * this program prints "Programming is like bulding a multilingual puzzle
  * Return: 0
  */ 
 int main(void)
-
-{   puts("Programming is like building a multilingual puzzle\n"); 
-    return (0); 
+{       puts("Programming is like building a multilingual puzzle\n"); 
+        return (0); 
 } 
 
