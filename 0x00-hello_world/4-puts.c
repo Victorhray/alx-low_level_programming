@@ -6,10 +6,10 @@
  * Description: Using the main function
  * This program prints programming is like bulding a multilingual puzzle
  */ 
-i
+
 int main(void)
 
-{   puts("Programming is like building a multilingual puzzle/n")
+{   puts("Programming is like building a multilingual puzzle\n")
     return(0); 
 } 
 
