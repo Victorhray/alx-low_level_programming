@@ -3,10 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Print last digit of randomly generated number
  *
  * Description: This program will assign a random
  * number to variable of n
+ * Return: 0
  */
 
 int main(void)
