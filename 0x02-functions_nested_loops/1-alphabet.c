@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Description: print_alphabet in lowercase
+ * print_alphabet - function to print abc
  * followed by a new line
  * Return: always 0
  */
@@ -17,5 +15,4 @@ void print_alphabet(void)
 
 
 	_putchar('\n');
-	return (0);
 }
