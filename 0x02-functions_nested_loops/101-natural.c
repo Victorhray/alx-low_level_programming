@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "main.h"
 /**
  * main - check for multiples of 3 and 5
  *
@@ -18,4 +17,4 @@ int main(void)
 	}
 	printf("%d\n", sum);
 	return (0);
-}}
+}
